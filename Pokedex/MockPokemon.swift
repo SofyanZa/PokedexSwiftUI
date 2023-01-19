@@ -1,0 +1,8 @@
+//
+//  MockPokemon.swift
+//  Pokedex
+//
+//  Created by SofyanZ on 18/01/2023.
+//
+
+import Foundation
